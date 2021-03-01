@@ -1,3 +1,13 @@
+## QUIZ FORM COMPONENT
+
+A simple questionnaire component built using React.
+
+1 question per page, when the question gets answered, the page is rerendered with a different set of question and choices.
+
+Built by Benedict Sollano
+
+## Project Setup
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
