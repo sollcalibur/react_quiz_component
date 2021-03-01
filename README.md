@@ -1,4 +1,4 @@
-## QUIZ FORM COMPONENT
+## QUESTIONNAIRE COMPONENT
 
 A simple questionnaire component built using React.
 
